@@ -35,7 +35,7 @@ th {
 
 .table th {
   background-color: #DAA520;
-  color: purple;
+  color: black;
 }
 
 .table tbody tr:nth-child(even) {
